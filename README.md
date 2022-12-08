@@ -1,14 +1,17 @@
 # Orçamento Automático
+Gera de forma automática um PDF com resumo de um orçamento.
 
-- Gera de forma automática um PDF com resumo de um orçamento.
+- Praticidade;
+- Ganho de tempo;
+- Eficiência.
+
+
 
 
 
 ## Instalação
 
-Instale a Biblioteca fpdf para gerar o PDF
-
-!pip install fpdf
+Instale a Biblioteca fpdf para gerar o PDF: !pip install fpdf
 
 
     
